@@ -380,7 +380,7 @@ uvicorn main:app --reload
 Add Screenshot Here
 ```
 
-<img width="100%" src="https://via.placeholder.com/1200x700?text=SOLIX+Landing+Page">
+<img width="100%" src="Screenshot 2026-06-15 205118.png">
 
 ---
 
