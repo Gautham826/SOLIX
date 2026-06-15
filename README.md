@@ -376,29 +376,17 @@ uvicorn main:app --reload
 
 ## 🏠 Landing Page
 
-```md
-Add Screenshot Here
-```
-
 <img width="100%" src="Screenshot 2026-06-15 205118.png">
 
 ---
 
 ## 📊 Dashboard
 
-```md
-Add Screenshot Here
-```
-
-<img width="100%" src="https://via.placeholder.com/1200x700?text=SOLIX+Dashboard">
+<img width="100%" src="Screenshot 2026-06-15 205303.png">
 
 ---
 
 ## 🤖 AI Forecasting
-
-```md
-Add Screenshot Here
-```
 
 <img width="100%" src="https://via.placeholder.com/1200x700?text=AI+Forecasting">
 
