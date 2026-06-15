@@ -388,7 +388,7 @@ uvicorn main:app --reload
 
 ## 🤖 AI Forecasting
 
-<img width="100%" src="https://via.placeholder.com/1200x700?text=AI+Forecasting">
+<img width="100%" src="Screenshot 2026-06-15 205338.png">
 
 ---
 
