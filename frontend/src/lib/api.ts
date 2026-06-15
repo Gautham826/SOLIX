@@ -1,4 +1,4 @@
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://solix-swys.onrender.com";
 
 export async function fetchSurplus() {
   const res = await fetch(`${API_BASE}/meter/surplus`);
