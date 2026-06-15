@@ -16,9 +16,9 @@ export default function ForecastPage() {
 
   useEffect(() => {
     Promise.all([
-      fetch("http://localhost:8000/forecast/").then(r => r.json()),
-      fetch("http://localhost:8000/forecast/hourly").then(r => r.json()),
-      fetch("http://localhost:8000/forecast/accuracy").then(r => r.json()),
+      fetch("https://solix-swys.onrender.com/forecast/").then(r => r.json()),
+      fetch("https://solix-swys.onrender.com/forecast/hourly").then(r => r.json()),
+      fetch("https://solix-swys.onrender.com/forecast/accuracy").then(r => r.json()),
     ]).then(([w, h, a]) => {
       setWeekly(w);
       setHourly(h);
