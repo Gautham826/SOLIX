@@ -457,8 +457,6 @@ Maximize usage of generated solar energy.
 | Vishwa R K    | Backend Developer    |
 | Yashawini M   | ML Engineer          |
 
-> Replace with actual team member details.
-
 ---
 
 # 📚 Research References
